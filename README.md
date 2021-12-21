@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 - 🔭 I’m currently working on Java APIs & React
 - 🌱 I’m currently learning to create React mobile apps
