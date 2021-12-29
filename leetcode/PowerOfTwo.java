@@ -45,4 +45,12 @@ class PowerOfTwo {
             return false;
         }
     }
+
+    public static void main(String[] args) {
+        PowerOfTwo test = new PowerOfTwo();
+        int sample = 6;
+        boolean result = test.isPowerOfTwo(sample);
+        System.out.print(sample + " is a power of 2: ");
+        System.out.println(result);
+    }
 }
