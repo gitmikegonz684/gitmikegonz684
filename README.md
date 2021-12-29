@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/They
 - :bike: Fun fact: I've been riding bikes since I was 5 years old
 
-*This repo is also used to save my LeetCode progress*
+*This repo is also used to log my LeetCode progress*
