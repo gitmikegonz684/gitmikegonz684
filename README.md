@@ -8,3 +8,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/mikegonz684/
 - 😄 Pronouns: He/They
 - :bike: Fun fact: I've been riding bikes since I was 5 years old
+
+*This repo is also used to log my LeetCode progress*
