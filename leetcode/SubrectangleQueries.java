@@ -1,3 +1,6 @@
+/**
+ * Implementation of the class SubrectangleQueries which receives a rows x cols rectangle as a matrix of integers in the constructor.
+ */
 public class SubrectangleQueries {
     private int[][] map;
 
