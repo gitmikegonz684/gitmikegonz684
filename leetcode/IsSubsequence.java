@@ -3,17 +3,21 @@ import java.util.Queue;
 
 public class IsSubsequence {
     public static void main(String[] args) {
-        String s = "axc";
+        String s = "abc";
         String t = "ahbgdc";
-        IsSubsequence isSubsequence = new IsSubsequence();
-        Boolean answer = isSubsequence.test(s, t);
-        System.out.println("\n\nis subsequence = " + answer);
+        IsSubsequence is = new IsSubsequence();
+        Boolean answer = is.isSubsequence(s, t);
+        System.out.println("\n\nIsSubsequence = " + answer);
     }
 
-    public IsSubsequence() {
-    };
-
-    public Boolean test(String s, String t) {
+    /**
+     * IS SUBSEQUENCE
+     * A subsequence "s" is a string which can be formed by only removing characters from string "t"
+     * @param s the subsequence
+     * @param t is the string which may or may not contain the subsequence s
+     * @return true if s is a subsequence of t
+     */
+    public Boolean isSubsequence(String s, String t) {
         if (s.isEmpty()) {
             return true;
         } else if (t.isEmpty()) {
