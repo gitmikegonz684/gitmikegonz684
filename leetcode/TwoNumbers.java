@@ -13,13 +13,13 @@ public class TwoNumbers {
 
         TwoNumbers tn = new TwoNumbers();
 
-        ListNode aA = tn.new ListNode(3);
-        ListNode bA = tn.new ListNode(4, aA);
-        ListNode cA = tn.new ListNode(2, bA);
+        ListNode aA = new ListNode(3);
+        ListNode bA = new ListNode(4, aA);
+        ListNode cA = new ListNode(2, bA);
 
-        ListNode aB = tn.new ListNode(4);
-        ListNode bB = tn.new ListNode(6, aB);
-        ListNode cB = tn.new ListNode(5, bB);
+        ListNode aB = new ListNode(4);
+        ListNode bB = new ListNode(6, aB);
+        ListNode cB = new ListNode(5, bB);
 
         ListNode answer = tn.addTwoNumbers(cA, cB);
 
@@ -74,13 +74,5 @@ public class TwoNumbers {
 
         ln = next;
         return ln;
-    }
-
-    public class ListNode {
-        int val;
-        ListNode next;
-        ListNode() {}
-        ListNode(int val) { this.val = val; }
-        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
     }
 }
