@@ -1,12 +1,12 @@
 ### Hey there 👋
 
-- 🔭 I’m currently working on Java APIs & React
-- 🌱 I’m currently learning to create React mobile apps
-- 👯 I’m looking to collaborate on hackathon projects that can be brought to life with a React web or mobile app.
-- 🤔 I’m looking for help with React Native
-- 💬 Ask me about Java APIs, Software Engineer interview prep, bikes, video games, etc.
+- 🔭 I’m currently working on automations with Python scripting.
+- 🌱 Simultaneously learning game development using the Godot game engine.
+- 👯 I’m looking to collaborate on projects that make interactions with technology a joyful experience.
+- 🤔 I’m seeking guidance in AI integrations and game development.
+- 💬 Ask me about APIs, Python scripting, gamedev, bikes, animation, etc.
 - 📫 How to reach me: https://www.linkedin.com/in/mikegonz684/
 - 😄 Pronouns: He/They
-- :bike: Fun fact: I've been riding bikes since I was 5 years old
+- :bike: Fun fact: I've been riding bikes since I was 5 years old.
 
 *This repo is also used to log my LeetCode progress*
