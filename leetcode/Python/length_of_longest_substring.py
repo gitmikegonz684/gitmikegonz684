@@ -36,8 +36,9 @@ def length_of_longest_substring(s: str) -> int:
                 chars_found.add(char)
                 char_indexes[char] = index
                 # update the max_length only if it is increasing
-                if (index - window_start_index + 1) > max_length:
-                    max_length = index - window_start_index + 1
+                new_length = index - window_start_index + 1
+                if new_length > max_length:
+                    max_length = new_length
         return max_length
     return 0
 
